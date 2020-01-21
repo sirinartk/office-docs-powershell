@@ -33,7 +33,7 @@
     "fs-extra": "^7.0.0",
     "moment": "^2.22.2",
     "node-powershell": "^3.3.1",
-    "nodegit": "^0.23.0",
+    "nodegit": "^0.26.3",
     "octonode": "^0.9.5",
     "shortid": "^2.2.13",
     "string-format": "^2.0.0"
