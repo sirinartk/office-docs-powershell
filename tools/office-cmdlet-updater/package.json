@@ -23,7 +23,7 @@
     "prettier": "^1.14.2"
   },
   "dependencies": {
-    "@sendgrid/mail": "^6.3.1",
+    "@sendgrid/mail": "^7.0.0",
     "await-of": "^1.1.2",
     "awilix": "^3.0.9",
     "better-queue": "^3.8.10",
@@ -33,7 +33,7 @@
     "fs-extra": "^7.0.0",
     "moment": "^2.22.2",
     "node-powershell": "^3.3.1",
-    "nodegit": "^0.23.0",
+    "nodegit": "^0.27.0",
     "octonode": "^0.9.5",
     "shortid": "^2.2.13",
     "string-format": "^2.0.0"
